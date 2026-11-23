@@ -1,0 +1,17 @@
+pipe_basic
+pipe_processes
+pipe_no_close
+dup2_output
+redirect_exec
+pipeline
+signal_int
+signal_parent_child
+mini_shell
+redirected.txt
+ls-output.txt
+output.txt
+test.txt
+core
+core.*
+*.o
+*.out
